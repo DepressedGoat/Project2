@@ -131,23 +131,23 @@ Second assignment for class "Αρχιτεκτονική Υ/Η"
 
 - Specbzib:
   
-  ![specsbzibCPIpng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\specsbzib_CPI.png?msec=1669989967039)
+  ![specsbzibCPIpng](https://github.com/DepressedGoat/Project2/blob/main/graphs/specsbzib_CPI.png)
   
 - Speclibm:
   
-  ![speclibmCPIpng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\speclibm_CPI.png?msec=1669989967040)
+  ![speclibmCPIpng](https://github.com/DepressedGoat/Project2/blob/main/graphs/speclibm_CPI.png)
   
 - Specmcf:
   
-  ![specmcfCPIpng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\specmcf_CPI.png?msec=1669989967040)
+  ![specmcfCPIpng](https://github.com/DepressedGoat/Project2/blob/main/graphs/specmcf_CPI.png)
   
 - specsjeng:
   
-  ![specsjengCPIpng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\specsjeng_CPI.png?msec=1669989967040)
+  ![specsjengCPIpng](https://github.com/DepressedGoat/Project2/blob/main/graphs/specsjeng_CPI.png)
   
 - Spechmmer:
   
-  ![spechmmerCPIpng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\spechmmer_CPI.png?msec=1669989967041)
+  ![spechmmerCPIpng](https://github.com/DepressedGoat/Project2/blob/main/graphs/spechmmer_CPI.png)
   
 
 # Βήμα 3
