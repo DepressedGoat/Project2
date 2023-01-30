@@ -84,7 +84,7 @@ Second assignment for class "Αρχιτεκτονική Υ/Η"
 
 **Sim_seconds :**
 
-![simsecondspng](file://https://github.com/DepressedGoat/Project2/blob/main/graphs/sim_seconds.png)
+![simsecondspng](file:https://github.com/DepressedGoat/Project2/blob/main/graphs/sim_seconds.png)
 
 **CPI :**
 
