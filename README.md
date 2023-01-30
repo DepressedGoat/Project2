@@ -84,7 +84,7 @@ Second assignment for class "Αρχιτεκτονική Υ/Η"
 
 **Sim_seconds :**
 
-![simsecondspng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\sim_seconds.png?msec=1669989967036)
+![simsecondspng](file://https://github.com/DepressedGoat/Project2/blob/main/graphs/sim_seconds.png)
 
 **CPI :**
 
