@@ -84,19 +84,19 @@ Second assignment for class "Αρχιτεκτονική Υ/Η"
 
 **Sim_seconds :**
 
-![simsecondspng](file:https://github.com/DepressedGoat/Project2/blob/main/graphs/sim_seconds.png)
+![simsecondspng](https://github.com/DepressedGoat/Project2/blob/main/graphs/sim_seconds.png)
 
 **CPI :**
 
-![CPIpng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\CPI.png?msec=1669989967037)
+![CPIpng](https://github.com/DepressedGoat/Project2/blob/main/graphs/CPI.png)
 
 **Μiss rates icache :**
 
-![miss rate icachepng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\miss%20rate%20icache.png?msec=1669989967038)
+![miss rate icachepng](https://github.com/DepressedGoat/Project2/blob/main/graphs/miss%20rate%20icache.png)
 
 **Μiss rates dcache :**
 
-![miss rate dcachepng](file://C:\Users\Jay\Desktop\ERGASIA_MASTER\Ergasia%202\graphs\miss%20rate%20dcache.png?msec=1669989967038)
+![miss rate dcachepng](https://github.com/DepressedGoat/Project2/blob/main/graphs/miss%20rate%20dcache.png)
 
 ### Eρώτημα 3:
 
